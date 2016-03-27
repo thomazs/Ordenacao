@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1458546669 source:f:\tmp\edii\ordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"util.c"
+	"bolha.c"
+	"insercao.c"
+	"selecao.c"
+
+1458545815 f:\tmp\edii\ordenacao\util.c
+
+1458545687 f:\tmp\edii\ordenacao\bolha.c
+
+1458546337 f:\tmp\edii\ordenacao\insercao.c
+
+1458546746 f:\tmp\edii\ordenacao\selecao.c
+
